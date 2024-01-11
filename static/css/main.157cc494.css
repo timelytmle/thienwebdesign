@@ -1,0 +1,2 @@
+.hero-bg{animation:GradientBackground 12s ease infinite;background:linear-gradient(.33turn,#82d0ff,#ffa2ff,#d6b7ff,#ff97cc);background-size:400% 400%}@keyframes GradientBackground{0%{background-position:0 50%}50%{background-position:100% 50%}to{background-position:0 50%}}
+/*# sourceMappingURL=main.157cc494.css.map*/
