@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="svg167" width="24" height="24" version="1.1" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<defs id="defs46">
+		<linearGradient id="linearGradient169" x1="-217.64" x2="-71.386" y1="-9.6694" y2="61.468" gradientTransform="matrix(1.6082 0 0 .4867 343.6 2.3268)" gradientUnits="userSpaceOnUse" spreadMethod="repeat">
+			<stop id="stop174" stop-color="#82d0ff" offset="0"/>
+			<stop id="stop175" stop-color="#ffa2ff" offset=".33956"/>
+			<stop id="stop176" stop-color="#d6b7ff" offset=".43608"/>
+			<stop id="stop4" stop-color="#d6b7ff" offset=".57608"/>
+			<stop id="stop177" stop-color="#ff97cc" offset=".80629"/>
+		</linearGradient>
+	</defs>
+	<rect id="bg-rect" width="224" height="24" ry="0" fill="url(#linearGradient169)">
+	<animateMotion
+			path="M0,0 H-200 H0"
+      		dur="10s"
+      		repeatCount="indefinite"
+		/>
+	</rect>
+</svg>
